@@ -69,13 +69,14 @@
 #     print('Você acertou!')    
 
 #######################################################################
-# cont = 0
-# while cont <= 100:
-#  if cont % 2 ==0:
-#     print('f{cont} é par')
-# else:
-#     print('f{cont} é impar')
-# cont +=1    
+cont = 1
+while cont <= 100:
+    if cont % 2 == 0:
+        print(f'{cont} é par')
+        cont +=1
+    else:
+        print(f'{cont} é impar')
+        cont +=1    
 
 ######################################################################
 
