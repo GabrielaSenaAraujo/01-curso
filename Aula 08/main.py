@@ -49,7 +49,18 @@
 #  print(i)
 
 # #Questão 7
+# palavra = (input('Digite a sua palavra: '))
+# for i in palavra :
+#     print(i)
 
+#Questao 8
+
+# frase = input('Digite uma frase: ')
+# contador = 0
+# for letra in frase:
+#     if letra != " " and letra not in "aeiouAEIOU":
+#         contador += 1
+# print(f'A quantidade de caracter é: {contador}')        
 
 
 
