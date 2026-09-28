@@ -40,3 +40,10 @@ numero_lista = [19,13,25,29,17]
 #     print(lista[i])    
 
 #Quando não souber quantos itens tem na lista    
+
+# numeros = [1, 2, 3, 4, 5]
+
+# print('Tamanho da lista:', len(numeros))
+
+# print('Primeiro elemento:', numeros[0])
+# print('Ultimo elemento:', numeros[-1])
