@@ -36,11 +36,13 @@
 # Pares: {lista_par}
 # Impares: {lista_impares}""")           
 
+# nota = [] 
+# for i in range(4):
 
-# nota = []
+#  #media_nota = int(input('Digite as quatro notas: '))
 
-# media_nota = sum(nota) / 4
+#    media_nota = sum(nota) / 4
 
-# print(media_nota)
+#    print(media_nota)
 
 
