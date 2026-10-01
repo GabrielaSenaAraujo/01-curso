@@ -45,4 +45,13 @@
 
 #    print(media_nota)
 
+#         IFOOD (versão web)
+
+# RF01:[O usuário pode selecionar vários itens]
+# RF02:[O usuário retirar um item do carrinho]
+# RF03:[O usuário pode escolher os tipos variados de culinária que deseja comprar(EX: culinária italiana, japonesa, mexicana, etc..)]
+# RF04:[O usuário pode deixar avaliações sobre a loja]
+# RF05:[
+
+# RNF01:[
 
